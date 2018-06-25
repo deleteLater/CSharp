@@ -1,0 +1,12 @@
+/home/zhang/CSharp/MyEditor/TextEditor/bin/Debug/TextEditor.exe
+/home/zhang/CSharp/MyEditor/TextEditor/bin/Debug/TextEditor.pdb
+/home/zhang/CSharp/MyEditor/TextEditor/obj/x86/Debug/TextEditor.csprojResolveAssemblyReference.cache
+/home/zhang/CSharp/MyEditor/TextEditor/obj/x86/Debug/TextEditor.csproj.CoreCompileInputs.cache
+/home/zhang/CSharp/MyEditor/TextEditor/obj/x86/Debug/TextEditor.exe
+/home/zhang/CSharp/MyEditor/TextEditor/obj/x86/Debug/TextEditor.pdb
+/home/zhang/Documents/CSharp/MyEditor/TextEditor/bin/Debug/TextEditor.exe
+/home/zhang/Documents/CSharp/MyEditor/TextEditor/bin/Debug/TextEditor.pdb
+/home/zhang/Documents/CSharp/MyEditor/TextEditor/obj/x86/Debug/TextEditor.csprojResolveAssemblyReference.cache
+/home/zhang/Documents/CSharp/MyEditor/TextEditor/obj/x86/Debug/TextEditor.csproj.CoreCompileInputs.cache
+/home/zhang/Documents/CSharp/MyEditor/TextEditor/obj/x86/Debug/TextEditor.exe
+/home/zhang/Documents/CSharp/MyEditor/TextEditor/obj/x86/Debug/TextEditor.pdb

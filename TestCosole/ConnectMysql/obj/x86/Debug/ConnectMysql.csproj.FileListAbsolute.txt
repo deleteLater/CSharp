@@ -1,0 +1,13 @@
+/home/zhang/Documents/CSharp/TestCosole/ConnectMysql/bin/Debug/ConnectMysql.exe
+/home/zhang/Documents/CSharp/TestCosole/ConnectMysql/bin/Debug/ConnectMysql.pdb
+/home/zhang/Documents/CSharp/TestCosole/ConnectMysql/bin/Debug/Simple.Data.Ado.dll
+/home/zhang/Documents/CSharp/TestCosole/ConnectMysql/bin/Debug/Simple.Data.dll
+/home/zhang/Documents/CSharp/TestCosole/ConnectMysql/bin/Debug/Simple.Data.Mysql.dll
+/home/zhang/Documents/CSharp/TestCosole/ConnectMysql/obj/x86/Debug/ConnectMysql.csprojResolveAssemblyReference.cache
+/home/zhang/Documents/CSharp/TestCosole/ConnectMysql/obj/x86/Debug/ConnectMysql.csproj.CoreCompileInputs.cache
+/home/zhang/Documents/CSharp/TestCosole/ConnectMysql/obj/x86/Debug/ConnectMysql.exe
+/home/zhang/Documents/CSharp/TestCosole/ConnectMysql/obj/x86/Debug/ConnectMysql.pdb
+/home/zhang/Documents/CSharp/TestCosole/ConnectMysql/bin/Debug/Google.Protobuf.dll
+/home/zhang/Documents/CSharp/TestCosole/ConnectMysql/bin/Debug/MySql.Data.dll
+/home/zhang/Documents/CSharp/TestCosole/ConnectMysql/bin/Debug/Google.Protobuf.xml
+/home/zhang/Documents/CSharp/TestCosole/ConnectMysql/bin/Debug/MySql.Data.xml

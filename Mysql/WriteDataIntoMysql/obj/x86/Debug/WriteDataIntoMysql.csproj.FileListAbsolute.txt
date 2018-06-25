@@ -1,0 +1,15 @@
+/home/zhang/Projects/Mysql/WriteDataIntoMysql/bin/Debug/WriteDataIntoMysql.exe.config
+/home/zhang/Projects/Mysql/WriteDataIntoMysql/bin/Debug/WriteDataIntoMysql.exe
+/home/zhang/Projects/Mysql/WriteDataIntoMysql/bin/Debug/WriteDataIntoMysql.pdb
+/home/zhang/Projects/Mysql/WriteDataIntoMysql/bin/Debug/EntityFramework.dll
+/home/zhang/Projects/Mysql/WriteDataIntoMysql/bin/Debug/EntityFramework.SqlServer.dll
+/home/zhang/Projects/Mysql/WriteDataIntoMysql/bin/Debug/Google.Protobuf.dll
+/home/zhang/Projects/Mysql/WriteDataIntoMysql/bin/Debug/MySql.Data.dll
+/home/zhang/Projects/Mysql/WriteDataIntoMysql/bin/Debug/Google.Protobuf.xml
+/home/zhang/Projects/Mysql/WriteDataIntoMysql/bin/Debug/MySql.Data.xml
+/home/zhang/Projects/Mysql/WriteDataIntoMysql/bin/Debug/EntityFramework.xml
+/home/zhang/Projects/Mysql/WriteDataIntoMysql/bin/Debug/EntityFramework.SqlServer.xml
+/home/zhang/Projects/Mysql/WriteDataIntoMysql/obj/x86/Debug/WriteDataIntoMysql.csprojResolveAssemblyReference.cache
+/home/zhang/Projects/Mysql/WriteDataIntoMysql/obj/x86/Debug/WriteDataIntoMysql.csproj.CoreCompileInputs.cache
+/home/zhang/Projects/Mysql/WriteDataIntoMysql/obj/x86/Debug/WriteDataIntoMysql.exe
+/home/zhang/Projects/Mysql/WriteDataIntoMysql/obj/x86/Debug/WriteDataIntoMysql.pdb

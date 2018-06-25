@@ -1,0 +1,8 @@
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.Generic/bin/Debug/BookManagement.Generic.dll
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.Generic/bin/Debug/BookManagement.Generic.pdb
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.Generic/bin/Debug/BookManagement.Domain.dll
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.Generic/bin/Debug/BookManagement.Domain.pdb
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.Generic/obj/Debug/BookManagement.Generic.csprojResolveAssemblyReference.cache
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.Generic/obj/Debug/BookManagement.Generic.csproj.CoreCompileInputs.cache
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.Generic/obj/Debug/BookManagement.Generic.dll
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.Generic/obj/Debug/BookManagement.Generic.pdb

@@ -1,0 +1,13 @@
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.MysqlRepository/bin/Debug/BookManagement.MysqlRepository.dll
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.MysqlRepository/bin/Debug/BookManagement.MysqlRepository.pdb
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.MysqlRepository/bin/Debug/BookManagement.Domain.dll
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.MysqlRepository/bin/Debug/BookManagement.Generic.dll
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.MysqlRepository/bin/Debug/Simple.Data.Ado.dll
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.MysqlRepository/bin/Debug/Simple.Data.dll
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.MysqlRepository/bin/Debug/Simple.Data.Mysql.dll
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.MysqlRepository/bin/Debug/BookManagement.Domain.pdb
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.MysqlRepository/bin/Debug/BookManagement.Generic.pdb
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.MysqlRepository/obj/Debug/BookManagement.MysqlRepository.csprojResolveAssemblyReference.cache
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.MysqlRepository/obj/Debug/BookManagement.MysqlRepository.csproj.CoreCompileInputs.cache
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.MysqlRepository/obj/Debug/BookManagement.MysqlRepository.dll
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.MysqlRepository/obj/Debug/BookManagement.MysqlRepository.pdb

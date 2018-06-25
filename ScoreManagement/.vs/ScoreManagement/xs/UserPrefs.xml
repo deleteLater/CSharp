@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0D14977A-BDDC-479E-A886-3C877C116B10}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScoreManagement.GtkSharp/MainWindow.cs">
+    <Files>
+      <File FileName="ScoreManagement.GtkSharp/MainWindow.cs" Line="14" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ScoreManagement.GtkSharp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

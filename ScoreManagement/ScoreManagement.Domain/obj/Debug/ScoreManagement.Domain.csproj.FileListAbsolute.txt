@@ -1,0 +1,12 @@
+/home/zhang/Projects/ScoreManagement/ScoreManagement.Domain/bin/Debug/ScoreManagement.Domain.dll
+/home/zhang/Projects/ScoreManagement/ScoreManagement.Domain/bin/Debug/ScoreManagement.Domain.pdb
+/home/zhang/Projects/ScoreManagement/ScoreManagement.Domain/obj/Debug/ScoreManagement.Domain.csproj.CoreCompileInputs.cache
+/home/zhang/Projects/ScoreManagement/ScoreManagement.Domain/obj/Debug/ScoreManagement.Domain.dll
+/home/zhang/Projects/ScoreManagement/ScoreManagement.Domain/obj/Debug/ScoreManagement.Domain.pdb
+/home/zhang/Projects/ScoreManagement/ScoreManagement.Domain/obj/Debug/ScoreManagement.Domain.csprojResolveAssemblyReference.cache
+/home/zhang/Documents/CSharp/ScoreManagement/ScoreManagement.Domain/bin/Debug/ScoreManagement.Domain.dll
+/home/zhang/Documents/CSharp/ScoreManagement/ScoreManagement.Domain/bin/Debug/ScoreManagement.Domain.pdb
+/home/zhang/Documents/CSharp/ScoreManagement/ScoreManagement.Domain/obj/Debug/ScoreManagement.Domain.csprojResolveAssemblyReference.cache
+/home/zhang/Documents/CSharp/ScoreManagement/ScoreManagement.Domain/obj/Debug/ScoreManagement.Domain.csproj.CoreCompileInputs.cache
+/home/zhang/Documents/CSharp/ScoreManagement/ScoreManagement.Domain/obj/Debug/ScoreManagement.Domain.dll
+/home/zhang/Documents/CSharp/ScoreManagement/ScoreManagement.Domain/obj/Debug/ScoreManagement.Domain.pdb

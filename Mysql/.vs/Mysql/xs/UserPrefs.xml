@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{0875655B-133E-48BF-B998-DAC00E6B4963}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WriteDataIntoMysql/Entry.cs">
+    <Files>
+      <File FileName="WriteDataIntoMysql/Entry.cs" Line="35" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mysql" expanded="True" selected="True">
+            <Node name="WriteDataIntoMysql" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WriteDataIntoMysql PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

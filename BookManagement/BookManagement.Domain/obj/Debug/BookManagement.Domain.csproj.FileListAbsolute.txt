@@ -1,0 +1,5 @@
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.Domain/bin/Debug/BookManagement.Domain.dll
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.Domain/bin/Debug/BookManagement.Domain.pdb
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.Domain/obj/Debug/BookManagement.Domain.csproj.CoreCompileInputs.cache
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.Domain/obj/Debug/BookManagement.Domain.dll
+/home/zhang/Documents/CSharp/BookManagement/BookManagement.Domain/obj/Debug/BookManagement.Domain.pdb

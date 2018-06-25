@@ -1,0 +1,8 @@
+/home/zhang/Documents/CSharp/Calculator_Gtk/Calculate_Lib/bin/Release/netstandard2.0/Calculate_Lib.deps.json
+/home/zhang/Documents/CSharp/Calculator_Gtk/Calculate_Lib/bin/Release/netstandard2.0/Calculate_Lib.dll
+/home/zhang/Documents/CSharp/Calculator_Gtk/Calculate_Lib/bin/Release/netstandard2.0/Calculate_Lib.pdb
+/home/zhang/Documents/CSharp/Calculator_Gtk/Calculate_Lib/obj/Release/netstandard2.0/Calculate_Lib.csproj.CoreCompileInputs.cache
+/home/zhang/Documents/CSharp/Calculator_Gtk/Calculate_Lib/obj/Release/netstandard2.0/Calculate_Lib.AssemblyInfoInputs.cache
+/home/zhang/Documents/CSharp/Calculator_Gtk/Calculate_Lib/obj/Release/netstandard2.0/Calculate_Lib.AssemblyInfo.cs
+/home/zhang/Documents/CSharp/Calculator_Gtk/Calculate_Lib/obj/Release/netstandard2.0/Calculate_Lib.dll
+/home/zhang/Documents/CSharp/Calculator_Gtk/Calculate_Lib/obj/Release/netstandard2.0/Calculate_Lib.pdb

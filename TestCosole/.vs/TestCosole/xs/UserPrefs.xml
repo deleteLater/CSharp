@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F547F824-B154-4084-B01C-F50491F2507B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConnectMysql/Program.cs">
+    <Files>
+      <File FileName="ConnectMysql/Program.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestCosole" expanded="True" selected="True">
+            <Node name="ConnectMysql" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConnectMysql PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
